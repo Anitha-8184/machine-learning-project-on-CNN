@@ -1,1 +1,2 @@
-# machine-learning-project-on-CNN
+# machine-learning-project-on-CNN using cifar10-dataset
+
